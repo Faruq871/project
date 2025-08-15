@@ -1,0 +1,18 @@
+title: "Nama Kamu — Data Analyst & AI Prompt Engineer"
+description: "Portofolio proyek data, AI, dan prompt engineering."
+theme: minima
+lang: id
+# Tampilkan link sosial di footer (edit username)
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/USERNAME" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/USERNAME/" }
+    - { platform: x, user_url: "https://x.com/USERNAME" }
+# Halaman yang muncul di navbar
+header_pages:
+  - projects.md
+  - resume.md
+# Aktifkan permalink cantik
+permalink: /:title/
+# Metadata untuk SEO dasar
+author: "Nama Kamu"
