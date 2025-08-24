@@ -13,6 +13,6 @@ title: Beranda
 - 🧪 Metrik: A/B testing, uplift, causal inference (ringkas), ML monitoring
 
 **Link cepat:**  
-→ [GitHub](https://github.com/USERNAME) · [Kaggle](https://kaggle.com/USERNAME) · [Hugging Face](https://huggingface.co/USERNAME) · [Tableau Public](https://public.tableau.com/app/profile/USERNAME)
+→ [GitHub](https://github.com/Faruq871) · [Kaggle](https://kaggle.com/USERNAME) · [Hugging Face](https://huggingface.co/USERNAME) · [Tableau Public](https://public.tableau.com/app/profile/USERNAME)
 
 > Catatan: Ini situs statis berbasis *Markdown* — tinggal edit file `.md`. Tidak perlu HTML/CSS.
