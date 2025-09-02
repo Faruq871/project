@@ -1,9 +1,4 @@
----
-layout: home
-title: Beranda
----
-
-# Halo, aku **Nama Kamu** 👋
+# Halo, aku **Al** 👋
 
 **Data Analyst & AI Prompt Engineer.** Fokus pada analitik produk, eksperimen model, dan desain prompt yang bisa **naikkan akurasi** sekaligus **turunkan biaya inferensi**.
 
@@ -13,6 +8,4 @@ title: Beranda
 - 🧪 Metrik: A/B testing, uplift, causal inference (ringkas), ML monitoring
 
 **Link cepat:**  
-→ [GitHub](https://github.com/Faruq871) · [Kaggle](https://kaggle.com/USERNAME) · [Hugging Face](https://huggingface.co/USERNAME) · [Tableau Public](https://public.tableau.com/app/profile/USERNAME)
-
-> Catatan: Ini situs statis berbasis *Markdown* — tinggal edit file `.md`. Tidak perlu HTML/CSS.
+→ [GitHub](https://github.com/Faruq871) · [Linkedin](https://www.linkedin.com/in/faruq-dhiya-67a78437a/)) · 
